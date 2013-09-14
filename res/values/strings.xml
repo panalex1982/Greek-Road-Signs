@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">RoadSignIndex</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">SIgn Index</string>
+    <string name="title_activity_sign_explanation">Sign Explanation</string>
+    <string name="greek">Greek</string>
+    <string name="english">English</string>
+
+</resources>

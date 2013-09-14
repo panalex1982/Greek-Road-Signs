@@ -1,0 +1,3290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signs>
+
+    <sign signType="2" >
+        <photo>
+sign_048
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική διακοπή πορείας.
+        </gr_desc>
+
+        <eng_desc>
+Stop and give way 
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_001
+        </photo>
+
+        <gr_desc>
+Επικίνδυνη αριστερή στροφή.
+        </gr_desc>
+
+        <eng_desc>
+Bend to left.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_002
+        </photo>
+
+        <gr_desc>
+Επικίνδυνη δεξιά στροφή.
+        </gr_desc>
+
+        <eng_desc>
+Bent to right.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_003
+        </photo>
+
+        <gr_desc>
+Επικίνδυνες δύο αντίρροπες ή διαδοχικές (συνεχείς) στροφές η πρώτη αριστερά.
+        </gr_desc>
+
+        <eng_desc>
+Double bend first to left.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_004
+        </photo>
+
+        <gr_desc>
+Επικίνδυνες δύο αντίρροπες ή διαδοχικές (συνεχείς) στροφές η πρώτη δεξιά.
+        </gr_desc>
+
+        <eng_desc>
+Double bend first to right.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_005
+        </photo>
+
+        <gr_desc>
+Επικίνδυνη κατωφέρεια, (με κλίση όπως η αναγραφόμενη στην Πινακίδα).
+        </gr_desc>
+
+        <eng_desc>
+ Steep hill downwards .
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_006
+        </photo>
+
+        <gr_desc>
+Απότομη ανωφέρεια, (με κλίση όπως η αναγραφόμενη στην Πινακίδα).
+        </gr_desc>
+
+        <eng_desc>
+ Steep hill upwards.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_007
+        </photo>
+
+        <gr_desc>
+Επικίνδυνη στένωση οδοστρώματος και στις δύο πλευρές.
+        </gr_desc>
+
+        <eng_desc>
+ Road narrows on both sides.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_008
+        </photo>
+
+        <gr_desc>
+Επικίνδυνη στένωση οδοστρώματος στην αριστερή πλευρά.
+        </gr_desc>
+
+        <eng_desc>
+Road narrows on left.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_009
+        </photo>
+
+        <gr_desc>
+Επικίνδυνη στένωση οδοστρώματος στην δεξιά πλευρά.
+        </gr_desc>
+
+        <eng_desc>
+Road narrows on right.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_010
+        </photo>
+
+        <gr_desc>
+Κινητή γέφυρα.
+        </gr_desc>
+
+        <eng_desc>
+ Opening for a swing bridge ahead.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_011
+        </photo>
+
+        <gr_desc>
+Η οδός οδηγεί σε αποβάθρα ή όχθη ποταμού.
+        </gr_desc>
+
+        <eng_desc>
+ Quay side or riverbank.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_012
+        </photo>
+
+        <gr_desc>
+Επικίνδυνο ανώμαλο οδόστρωμα, σε κακή κατάσταση, με λάκκους κ.λπ..
+        </gr_desc>
+
+        <eng_desc>
+ Uneven road.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_013
+        </photo>
+
+        <gr_desc>
+Επικίνδυνα υπερυψωμένο οδόστρωμα ή απότομη κυρτή αλλαγή της κατά μήκος κλίσης της οδού.
+        </gr_desc>
+
+        <eng_desc>
+Speed bump.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_014
+        </photo>
+
+        <gr_desc>
+Επικίνδυνο κάθετο ρείθρο (αυλάκι) ή απότομη κοίλη αλλαγή της κατά μήκος κλίσης της οδού.
+        </gr_desc>
+
+        <eng_desc>
+Gutter.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_015
+        </photo>
+
+        <gr_desc>
+Ολισθηρό οδόστρωμα.
+        </gr_desc>
+
+        <eng_desc>
+Slippery road.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_016
+        </photo>
+
+        <gr_desc>
+Επικίνδυνη εκτίναξη χαλίκων, (ασύνδετο αμμοχάλικο).
+        </gr_desc>
+
+        <eng_desc>
+Loose chippings.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_017
+        </photo>
+
+        <gr_desc>
+Κίνδυνος από πτώση βράχων και από την παρουσία τους στο οδόστρωμα.
+        </gr_desc>
+
+        <eng_desc>
+Falling rocks.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_018
+        </photo>
+
+        <gr_desc>
+Κίνδυνος λόγω διάβασης πεζών.
+        </gr_desc>
+
+        <eng_desc>
+Pedestrian crossing
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_019
+        </photo>
+
+        <gr_desc>
+Κίνδυνος λόγω συχνής κίνησης παιδιών (Σχολεία, Γήπεδα κ.λπ.).
+        </gr_desc>
+
+        <eng_desc>
+Children crossing.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_020
+        </photo>
+
+        <gr_desc>
+Κίνδυνος λόγω συχνής εισόδου ή διάβασης ποδηλατιστών.
+        </gr_desc>
+
+        <eng_desc>
+Cyclists and moped riders on carriageway.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_021
+        </photo>
+
+        <gr_desc>
+Κίνδυνος από διέλευση οικοσίτων ζώων.
+        </gr_desc>
+
+        <eng_desc>
+Frequent animal crossing.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_022
+        </photo>
+
+        <gr_desc>
+Κίνδυνος από διέλευση αγρίων ζώων.
+        </gr_desc>
+
+        <eng_desc>
+Frequent wild animals crossing.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_023
+        </photo>
+
+        <gr_desc>
+Κίνδυνος λόγω εκτελουμένων εργασιών στην οδό.
+        </gr_desc>
+
+        <eng_desc>
+Road Works.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_024
+        </photo>
+
+        <gr_desc>
+Προσοχή, κόμβος ή θέση όπου η κυκλοφορία ρυθμίζεται με τρίχρωμη φωτεινή σηματοδότηση.
+        </gr_desc>
+
+        <eng_desc>
+Traffic signals ahead.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_025
+        </photo>
+
+        <gr_desc>
+Κίνδυνος λόγω χαμηλής πτήσης προσγειουμένων ή απoγειουμένων αεροσκαφών.
+        </gr_desc>
+
+        <eng_desc>
+Low-flying aircraft.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_026
+        </photo>
+
+        <gr_desc>
+Κίνδυνος λόγω συχνού ισχυρού ανέμου (όπως δείχνει η κατεύθυνση του ανεμουρίου).
+        </gr_desc>
+
+        <eng_desc>
+Crosswind from left
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_027
+        </photo>
+
+        <gr_desc>
+Προαναγγελία διπλής κυκλοφορίας.
+        </gr_desc>
+
+        <eng_desc>
+Two-way traffic.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_028
+        </photo>
+
+        <gr_desc>
+Προσοχή άλλοι κίνδυνοι.
+        </gr_desc>
+
+        <eng_desc>
+Other Dangers.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_029
+        </photo>
+
+        <gr_desc>
+Προσοχή, διασταύρωση όπου ισχύει η από δεξιά προτεραιότητα.
+        </gr_desc>
+
+        <eng_desc>
+Intersection ahead, where priority to the right applies.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_030
+        </photo>
+
+        <gr_desc>
+Διασταύρωση με οδό, οι επί της οποίας κινούμενοι οφείλουν να παραχωρήσουν προτεραιότητα (χρησιμοποιήτε συνήθως όταν οι παράπλευροι δρόμοι δεν έχουν καλή οπτική στην προτεραιότητα).
+        </gr_desc>
+
+        <eng_desc>
+Priority at next intersection (The warning shows the side roads may have a bad view of the priority road)
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_031
+        </photo>
+
+        <gr_desc>
+Διακλάδωση με κάθετη οδό αριστερά, οι επί της οποίας κινούμενοι οφείλουν να παραχωρήσουν προτεραιότητα.
+        </gr_desc>
+
+        <eng_desc>
+Intersection ahead with vertical side road from the right. Side road pass the right-of-way.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_032
+        </photo>
+
+        <gr_desc>
+Διακλάδωση με κάθετη οδό δεξιά, οι επί της οποίας κινούμενοι οφείλουν να παραχωρήσουν προτεραιότητα.
+        </gr_desc>
+
+        <eng_desc>
+Intersection ahead with vertical side road from the left. Side road pass the right-of-way.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_033
+        </photo>
+
+        <gr_desc>
+Διακλάδωση με λοξή οδό αριστερά, οι επί της οποίας κινούμενοι οφείλουν να πα- ραχωρήσουν προτεραιότητα.
+        </gr_desc>
+
+        <eng_desc>
+Junction with a road the users of which must give way, 45° left.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_034
+        </photo>
+
+        <gr_desc>
+Διακλάδωση με λοξή οδό δεξιά, πάνω στην οποία οι κινούμενοι οφείλουν να παραχωρήσουν προτεραιότητα.
+        </gr_desc>
+
+        <eng_desc>
+Junction with a road the users of which must give way, 45° right.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_035
+        </photo>
+
+        <gr_desc>
+Προσέγγιση σε κυκλική υποχρεωτική πορεία.
+        </gr_desc>
+
+        <eng_desc>
+Roundabout ahead.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_036
+        </photo>
+
+        <gr_desc>
+Κίνδυνος λόγω ισόπεδης σιδηροδρομικής διάβασης ή διάβασης τροχιοδρόμου με κινητά φράγματα.
+        </gr_desc>
+
+        <eng_desc>
+Level crossing with gates.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_037
+        </photo>
+
+        <gr_desc>
+Κίνδυνος λόγω ισόπεδης σιδηροδρομικής διάβασης χωρίς κινητά φράγματα.
+        </gr_desc>
+
+        <eng_desc>
+Level crossing without gates.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_039
+        </photo>
+
+        <gr_desc>
+Πρόσθετες επαναληπτικές Πινακίδες στις προσβάσεις ισοπέδων σιδηροδρομικών διαβάσεων ή κινητών γεφυρών, οι οποίες δηλώνουν προσέγγιση σ’ αυτές.
+        </gr_desc>
+
+        <eng_desc>
+Distance to level crossing.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_038
+        </photo>
+
+        <gr_desc>
+Κίνδυνος λόγω άμεσης γειτονίας ισόπεδης σιδηροδρομικής διάβασης ή διάβασης τροχιοδρόμου, χωρίς κινητά φράγματα μονής σιδηροδρομικής γραμμής.
+        </gr_desc>
+
+        <eng_desc>
+Single-track level crossing.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_040
+        </photo>
+
+        <gr_desc>
+Κίνδυνος λόγω άμεσης γειτονίας ισόπεδης σιδηροδρομικής διάβασης ή διάβασης τροχιοδρόμου, χωρίς κινητά φράγματα διπλής ή πολλαπλής σιδηροδρομικής γραμμής.
+        </gr_desc>
+
+        <eng_desc>
+Multitrack level crossing.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_041
+        </photo>
+
+        <gr_desc>
+Επικίνδυνο έρεισμα αριστερά.
+        </gr_desc>
+
+        <eng_desc>
+ Soft verges at left.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_042
+        </photo>
+
+        <gr_desc>
+Επικίνδυνο έρεισμα δεξιά.
+        </gr_desc>
+
+        <eng_desc>
+ Soft verges at right.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_043
+        </photo>
+
+        <gr_desc>
+Συχνή κυκλοφοριακή συμφόρηση.
+        </gr_desc>
+
+        <eng_desc>
+ Traffic queues likely.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_044
+        </photo>
+
+        <gr_desc>
+Σήραγγα.
+        </gr_desc>
+
+        <eng_desc>
+Tunel ahead.
+        </eng_desc>
+    </sign>
+    <sign signType="0" >
+        <photo>
+sign_045
+        </photo>
+
+        <gr_desc>
+Κίνδυνος λόγω ισόπεδης διάβασης τροχιοδρόμου χωρίς κινητά φράγματα.
+        </gr_desc>
+
+        <eng_desc>
+ Trams crossing ahead without barrier.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_052
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε όλα τα οχήματα.
+        </gr_desc>
+
+        <eng_desc>
+ No entry for vehicular traffic 
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_046
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική παραχώρηση προτεραιότητας.
+        </gr_desc>
+
+        <eng_desc>
+ Give way to traffic on a major road.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_050
+        </photo>
+
+        <gr_desc>
+Προτεραιότητα της αντιθέτως ερχόμενης κυκλοφορίας λόγω στενότητας οδοστρώματος.
+        </gr_desc>
+
+        <eng_desc>
+Priority for oncoming vehicles.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_051
+        </photo>
+
+        <gr_desc>
+Προτεραιότητα έναντι επερχομένης κυκλοφορίας (λόγω στενότητας οδοστρώματος).
+        </gr_desc>
+
+        <eng_desc>
+Priority over oncoming vehicles.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_047
+        </photo>
+
+        <gr_desc>
+Οδός προτεραιότητας.
+        </gr_desc>
+
+        <eng_desc>
+Priority road.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_049
+        </photo>
+
+        <gr_desc>
+Τέλος οδού προτεραιότητας.
+        </gr_desc>
+
+        <eng_desc>
+End of Priority road.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_053
+        </photo>
+
+        <gr_desc>
+Κλειστή οδός για όλα τα οχήματα και προς τις δύο κατευθύνσεις.
+        </gr_desc>
+
+        <eng_desc>
+Closed to all vehicles in both directions.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_054
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε μηχανοκίνητα οχήματα εκτός των διτρόχων μοτοσικλετών.
+        </gr_desc>
+
+        <eng_desc>
+No power-driven vehicles except single-tracked motorcycles.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_055
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος στις μοτοσικλέτες.
+        </gr_desc>
+
+        <eng_desc>
+No single-tracked motorcycles.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_056
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος στα ποδήλατα.
+        </gr_desc>
+
+        <eng_desc>
+No cycles.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_057
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος στα μοτοποδήλατα.
+        </gr_desc>
+
+        <eng_desc>
+No mopeds.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_058
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε φορτηγά αυτοκίνητα.
+        </gr_desc>
+
+        <eng_desc>
+No trucks.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_059
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε μηχανοκίνητο όχημα το οποίο σύρει ρυμουλκούμενο πλην ημιρυμουλκουμένου ή ρυμουλκουμένου ενός άξονα.
+        </gr_desc>
+
+        <eng_desc>
+No trucks drawing a trailer
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_060
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε πεζούς.
+        </gr_desc>
+
+        <eng_desc>
+No access for pedestrians.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_061
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε ζωήλατα οχήματα.
+        </gr_desc>
+
+        <eng_desc>
+ No animal-drawn vehicles.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_062
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε αγροτικά μηχανήματα.
+        </gr_desc>
+
+        <eng_desc>
+No access for motor vehicles that cannot exceed 25 km/h (tractors etc.).
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_064
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε μηχανοκίνητα οχήματα.
+        </gr_desc>
+
+        <eng_desc>
+No power-driven vehicles
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_065
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε οχήματα ορισμένων κατηγοριών (π.χ. σε μηχανοκίνητα και ζωήλατα οχήματα).
+        </gr_desc>
+
+        <eng_desc>
+No entrance for combined categories(eg. power-driven or animal-drawn vehiles)
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_066
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε οχήματα συνολικού πλάτους που υπερβαίνει τα ... (π.χ. 2) μέτρα.
+        </gr_desc>
+
+        <eng_desc>
+No vehicles having an overall width exceeding ... (eg 2) meters
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_067
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε οχήματα συνολικού ύψους που υπερβαίνει τα ... (π.χ. 3,5) μέτρα.
+        </gr_desc>
+
+        <eng_desc>
+No vehicles having an overall height exceeding ... (eg 3) meters
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_068
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε οχήματα συνολικού βάρους που υπερβαίνει τους ... (π.χ. 5) τόνους.
+        </gr_desc>
+
+        <eng_desc>
+No vehicles exceeding ... (eg 5) tons laden weight
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_069
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε οχήματα βάρους ανά άξονα που υπερβαίνει τους ... (π.χ. 2) τόνους.
+        </gr_desc>
+
+        <eng_desc>
+No vehicles having a weight exceeding ... (eg 2) tons on one axel
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_070
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε οχήματα ή συνδυασμούς οχημάτων μήκους, που υπερ- βαίνει τα ... (π.χ. 10) μέτρα.
+        </gr_desc>
+
+        <eng_desc>
+No vehiles or combined veholes exceeding ... (eg 10) meters
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_071
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η οδήγηση οχήματος σε απόσταση μικρότερη των ... (π.χ. 70) μέτρων από του προηγούμενου.
+        </gr_desc>
+
+        <eng_desc>
+No traffic allowed without indicated minimum distance between vehicles(eg. 70 meters);
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_072
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η αριστερή στροφή.
+        </gr_desc>
+
+        <eng_desc>
+No left turn.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_073
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η δεξιά στροφή.
+        </gr_desc>
+
+        <eng_desc>
+No right turn.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_074
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η αναστροφή (στροφή κατά 180ο).
+        </gr_desc>
+
+        <eng_desc>
+No U-turns.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_075
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται το προσπέρασμα μηχανοκίνητων οχημάτων, πλην των διτρόχων μοτοσικλετών χωρίς κάνιστρο.
+        </gr_desc>
+
+        <eng_desc>
+No overtaking.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_078
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται στους οδηγούς φορτηγών αυτοκινήτων μεγίστου επιτρεπομένου βάρους, που υπερβαίνει τους 3,5 τόνους, να προσπερνούν άλλα οχήματα.
+        </gr_desc>
+
+        <eng_desc>
+No overtaking by trucks.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_079
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η διέλευση χωρίς στάση προ του Τελωνείου.
+        </gr_desc>
+
+        <eng_desc>
+Passing without stopping prohibited at customs.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_080
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η διέλευση χωρίς στάση προ σταθμού Διοδίων.
+        </gr_desc>
+
+        <eng_desc>
+Passing without stopping prohibited at toll post.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_081
+        </photo>
+
+        <gr_desc>
+Τέλος όλων των τοπικών απαγορεύσεων, που έχουν επιβληθεί με απαγορευτικές πινακίδες στα κινούμενα οχήματα.
+        </gr_desc>
+
+        <eng_desc>
+End of all local restrictions.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_082
+        </photo>
+
+        <gr_desc>
+Τέλος ορίου ταχύτητος, που έχει επιβληθεί με απαγορευτική πινακίδα (π.χ. 40 χλμ/ώρα).
+        </gr_desc>
+
+        <eng_desc>
+End of speed limit (eg. 40 Khm/h)
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_083
+        </photo>
+
+        <gr_desc>
+Τέλος απαγόρευσης προσπεράσματος, που έχει επιβληθεί με απαγορευτική πινακίδα.
+        </gr_desc>
+
+        <eng_desc>
+End of overtaking restriction.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_084
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η στάθμευση.
+        </gr_desc>
+
+        <eng_desc>
+No parking.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_085
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η στάση και η στάθμευση.
+        </gr_desc>
+
+        <eng_desc>
+No standing or parking.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_086
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η στάθμευση επί της πλευράς της πινακίδας κατά τους μονούς μήνες.
+        </gr_desc>
+
+        <eng_desc>
+Alternative parking (prohibited on the odd months of year).
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_087
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η στάθμευση επί της πλευράς της πινακίδας κατά τους ζυγούς μήνες.
+        </gr_desc>
+
+        <eng_desc>
+Alternative parking (prohibited on the even months of year).
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_089
+        </photo>
+
+        <gr_desc>
+Έξοδος από περιοχή απαγορευμένης στάθμευσης.
+        </gr_desc>
+
+        <eng_desc>
+End of no parking zone
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_090
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε οχήματα που μεταφέρουν πάνω από ορισμένη ποσότητα εκρηκτικές ή εύφλεκτες ύλες.
+        </gr_desc>
+
+        <eng_desc>
+No vehicles carrying explosives or inflammable materials
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_093
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε οχήματα, που μεταφέρουν πάνω από ορισμένη ποσότητα ύλες, που μπορούν να προκαλέσουν μόλυνση υδάτων.
+        </gr_desc>
+
+        <eng_desc>
+No vehicles carrying goods which could pollute water.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_110
+        </photo>
+
+        <gr_desc>
+Ανωτάτη ταχύτητα περιοχής.
+        </gr_desc>
+
+        <eng_desc>
+Zone with speed limit (eg. 50Khm/h).
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_111
+        </photo>
+
+        <gr_desc>
+Έξοδος από περιοχή με ανώτατο όριο ταχύτητας.
+        </gr_desc>
+
+        <eng_desc>
+End of zone with speed limit.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_112
+        </photo>
+
+        <gr_desc>
+Τέλος απαγόρευσης προσπεράσματος από φορτηγά αυτοκίνητα, που έχει επιβληθεί με απαγορευτική πινακίδα.
+        </gr_desc>
+
+        <eng_desc>
+End of the overtaking restriction from trucks.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_113
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται το ρυμουλκούμενο όχημα να έχει βάρος μεγαλύτερο από (π.χ. 3) τόνους.
+        </gr_desc>
+
+        <eng_desc>
+No power-driven vehicles drawing a trailer.
+        </eng_desc>
+    </sign>
+    <sign signType="1" >
+        <photo>
+sign_114
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η είσοδος σε οχήματα, που μεταφέρουν επικίνδυνα υλικά.
+        </gr_desc>
+
+        <eng_desc>
+ No vehicles carrying dangerous goods.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_091
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική κατεύθυνση πορείας προς τα αριστερά.
+        </gr_desc>
+
+        <eng_desc>
+Prescribed direction: Left only.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_092
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική κατεύθυνση πορείας προς τα δεξιά.
+        </gr_desc>
+
+        <eng_desc>
+Direction to be followed. Right only.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_094
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική κατεύθυνση πορείας προς τα εμπρός.
+        </gr_desc>
+
+        <eng_desc>
+Direction to be followed. Forward only.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_095
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική κατεύθυνση πορείας με στροφή αριστερά ή δεξιά.
+        </gr_desc>
+
+        <eng_desc>
+Direction to be followed. Turn left or right.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_096
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική κατεύθυνση πορείας με στροφή αριστερά.
+        </gr_desc>
+
+        <eng_desc>
+Direction to be followed. Turn left.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_097
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική κατεύθυνση πορείας με στροφή δεξιά.
+        </gr_desc>
+
+        <eng_desc>
+Direction to be followed. Turn right.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_098
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική κατεύθυνση πορείας εμπρός ή αριστερά.
+        </gr_desc>
+
+        <eng_desc>
+Direction to be followed. Turn left or continue straight ahead.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_099
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική κατεύθυνση πορείας εμπρός ή δεξιά.
+        </gr_desc>
+
+        <eng_desc>
+Direction to be followed. Turn right or continue straight ahead.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_100
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική διέλευση είτε από τη δεξιά είτε από την αριστερή πλευρά της νησίδας ή του εμποδίου.
+        </gr_desc>
+
+        <eng_desc>
+Pass this side. Either side.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_101
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική διέλευση μόνο από την αριστερή πλευρά της νησίδας ή του εμποδίου.
+        </gr_desc>
+
+        <eng_desc>
+Pass this side. Left.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_102
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική διέλευση μόνο από τη δεξιά πλευρά της νησίδας ή του εμποδίου.
+        </gr_desc>
+
+        <eng_desc>
+Pass this side. Right.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_103
+        </photo>
+
+        <gr_desc>
+Κυκλική υποχρεωτική διαδρομή.
+        </gr_desc>
+
+        <eng_desc>
+Roundabout.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_104
+        </photo>
+
+        <gr_desc>
+Οδός υποχρεωτικής διέλευσης ποδηλάτων (απαγορευμένης της διέλευσης άλλων οχημάτων).
+        </gr_desc>
+
+        <eng_desc>
+Track for cycles and mopeds
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_105
+        </photo>
+
+        <gr_desc>
+Οδός υποχρεωτικής διέλευσης πεζών, (απαγορευομένης της διέλευσης άλλων εκτός από πεζών, οχημάτων άμεσης ανάγκης και οχημάτων για την είσοδο-έξοδο σε παρόδιες ιδιοκτησίες).
+        </gr_desc>
+
+        <eng_desc>
+Foot Path.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_106
+        </photo>
+
+        <gr_desc>
+Οδός υποχρεωτικής διέλευσης εφίππων (απαγορευομένης της διέλευσης άλλων, εκτός εφίππων, που χρησιμοποιούν την οδό).
+        </gr_desc>
+
+        <eng_desc>
+Track for rider on horseback.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_107
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική ελαχίστη ταχύτητα που αναγράφεται με λευκούς αριθμούς σε (π.χ. 30 χλμ/ώρα).
+        </gr_desc>
+
+        <eng_desc>
+Prescribed minimum speed.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_129
+        </photo>
+
+        <gr_desc>
+Τέλος υποχρεωτικής ελαχίστης ταχύτητας, που έχει επιβληθεί.
+        </gr_desc>
+
+        <eng_desc>
+End of prescribed minimum speed limit.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_109
+        </photo>
+
+        <gr_desc>
+Υποχρεωτικές αντιολισθητικές αλυσίδες χιόνων, σε δύο τουλά- χιστον από τους κινητήριους τροχούς του αυτοκινήτου.
+        </gr_desc>
+
+        <eng_desc>
+Obligation to put on snow chains.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_115
+        </photo>
+
+        <gr_desc>
+Η κάθε κατηγορία χρηστών που απεικονίζει το σύμβολο πρέπει να χρησιμοποιεί την πλευρά του αντίστοιχου διαδρόμου που είναι ειδικά επιλεγμένη γι’ αυτή την κατηγορία.
+        </gr_desc>
+
+        <eng_desc>
+Track only for cycles &amp; pedestrians (separated tracks).
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_116
+        </photo>
+
+        <gr_desc>
+Οι διάφορες κατηγορίες χρηστών που απεικονίζουν τα αντίστοιχα σύμβολα επιτρέ- πεται να χρησιμοποιούν ταυτόχρονα τον ειδικό διάδρομο.
+        </gr_desc>
+
+        <eng_desc>
+Track only for cycles &amp; pedestrians.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_117
+        </photo>
+
+        <gr_desc>
+Αποκλειστική διέλευση Λεωφορείων ή Τρόλλεϋ.
+        </gr_desc>
+
+        <eng_desc>
+Beginning of lane reserved for scheduled buses etc.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_118
+        </photo>
+
+        <gr_desc>
+Τέλος αποκλειστικής διέλευσης Λεωφορείων ή Τρόλλεϋ.
+        </gr_desc>
+
+        <eng_desc>
+End lane reserved for scheduled buses etc.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_128
+        </photo>
+
+        <gr_desc>
+Αποκλειστική διεύλευση τροχιοδρόμου.
+        </gr_desc>
+
+        <eng_desc>
+Beginning of lane reserved for scheduled tram etc.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_129
+        </photo>
+
+        <gr_desc>
+End lane reserved for scheduled buses etc.
+        </gr_desc>
+
+        <eng_desc>
+End lane reserved for scheduled tram etc.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_123
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική κατεύθυνση πορείας οχημάτων μεταφοράς επικίνδυνων φορτίων προς τα αριστερά.
+        </gr_desc>
+
+        <eng_desc>
+Prescribed direction for vehiles with dangerous materials: Left only
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_124
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική κατεύθυνση πορείας οχημάτων μεταφοράς επικίνδυνων φορτίων προς τα δεξιά.
+        </gr_desc>
+
+        <eng_desc>
+Prescribed direction for vehiles with dangerous materials: Right only
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_125
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική κατεύθυνση πορείας οχημάτων μεταφοράς επικίνδυνων φορτίων προς τα αριστερά.
+        </gr_desc>
+
+        <eng_desc>
+Prescribed direction for vehiles with dangerous materials: Turn left
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_126
+        </photo>
+
+        <gr_desc>
+Υποχρεωτική κατεύθυνση πορείας οχημάτων μεταφοράς επικίνδυνων φορτίων προς τα δεξιά.
+        </gr_desc>
+
+        <eng_desc>
+Prescribed direction for vehiles with dangerous materials: Turn right.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_127
+        </photo>
+
+        <gr_desc>
+Επιβάλλει ιδιαίτερη προσοχή σε οχήματα που μεταφέρουν επικίνδυνες ύλες που μπορούν να προκαλέσουν μόλυνση των υδάτων.
+        </gr_desc>
+
+        <eng_desc>
+Vehicles carrying goods which could pollute water must be very carefully passing this zone.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_119
+        </photo>
+
+        <gr_desc>
+Χώρος ελεγχόμενης στάθμευσης.
+        </gr_desc>
+
+        <eng_desc>
+Paying parking zone.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_120
+        </photo>
+
+        <gr_desc>
+Χωρός στάθμευσης ορισμένης κατηγορίας οχημάτων π.χ. ταξί.
+        </gr_desc>
+
+        <eng_desc>
+Taxi rank
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_121
+        </photo>
+
+        <gr_desc>
+Χώρος στάθμευσης αποκλειστικά για οχήματα Ατόμων με Αναπηρίες (ΑμεΑ), ύστερα από ειδική άδεια.
+        </gr_desc>
+
+        <eng_desc>
+Parking zone for handicapped.
+        </eng_desc>
+    </sign>
+    <sign signType="2" >
+        <photo>
+sign_122
+        </photo>
+
+        <gr_desc>
+Χώρος στάθμευσης αποκλειστικά για συγκεκριμένο όχημα Ατόμων με Αναπηρίες (ΑμεΑ), ύστερα από ειδική άδεια και με αριθμό κυκλοφορίας ...
+        </gr_desc>
+
+        <eng_desc>
+Parking zone for specific vehile of a handicapped person.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_130
+        </photo>
+
+        <gr_desc>
+Προειδοποιητική κατευθύνσεων η οποία τοποθετείται στις οδούς ταχείας κυκλοφορίας προ διασταυρώσεων με αναγραφές κατευθύνσεων και χιλιομετρικών αποστάσεων.
+        </gr_desc>
+
+        <eng_desc>
+Advance direction sign, diagrammatic type.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_132
+        </photo>
+
+        <gr_desc>
+Προειδοποιητική κατευθύνσεων για συνήθεις οδούς με αναγραφές κατευθύνσεων και χιλιομετρικών αποστάσεων.
+        </gr_desc>
+
+        <eng_desc>
+Advance direction sign, stack type
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_152
+        </photo>
+
+        <gr_desc>
+Προειδοποιητική για αδιέξοδο.
+        </gr_desc>
+
+        <eng_desc>
+No through road.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_136
+        </photo>
+
+        <gr_desc>
+Προειδοποιητική υποχρεωτικής διαδρομής για στροφή αριστερά στην επομένη διασταύρωση όπου αυτή απαγορεύεται.
+        </gr_desc>
+
+        <eng_desc>
+Direction must follow, all vehiles that want to turn left in the next intersection.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_135
+        </photo>
+
+        <gr_desc>
+Προειδοποιητική πινακίδα προεπιλογής λωρίδας σε διασταύρωση σε οδούς με πολλές λωρίδες κυκλοφορίας.
+        </gr_desc>
+
+        <eng_desc>
+Lane preselection sign.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_139
+        </photo>
+
+        <gr_desc>
+Κατεύθυνσης για μια ή περισσότερες τοπωνυμίες με μορφή βέλους.
+        </gr_desc>
+
+        <eng_desc>
+Advance direction sign, arrow type
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_147
+        </photo>
+
+        <gr_desc>
+Κατεύθυνσης προς αεροδρόμιο.
+        </gr_desc>
+
+        <eng_desc>
+Direction to airport
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_140
+        </photo>
+
+        <gr_desc>
+Κατεύθυνσης προς κατασκήνωση.
+        </gr_desc>
+
+        <eng_desc>
+Direction to camping.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_141
+        </photo>
+
+        <gr_desc>
+Κατεύθυνσης προς Ξενώνα Νεότητας.
+        </gr_desc>
+
+        <eng_desc>
+Direction to youth hostel.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_143
+        </photo>
+
+        <gr_desc>
+Αρίθμηση εθνικών οδών.
+        </gr_desc>
+
+        <eng_desc>
+National road numbering (used anywhere but motorways).
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_144
+        </photo>
+
+        <gr_desc>
+Αρίθμηση διεθνών αρτηριών.
+        </gr_desc>
+
+        <eng_desc>
+E-road numbering (International Motorways).
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_145
+        </photo>
+
+        <gr_desc>
+Χιλιομέτρηση οδών.
+        </gr_desc>
+
+        <eng_desc>
+Road distance in Khm/h.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_162
+        </photo>
+
+        <gr_desc>
+Αρχή κατοικημένης περιοχής.
+        </gr_desc>
+
+        <eng_desc>
+Start of residential area.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_163
+        </photo>
+
+        <gr_desc>
+Τέλος κατοικημένης περιοχής.
+        </gr_desc>
+
+        <eng_desc>
+End of residential area.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_161
+        </photo>
+
+        <gr_desc>
+Τοπωνυμία.
+        </gr_desc>
+
+        <eng_desc>
+Area name.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_160
+        </photo>
+
+        <gr_desc>
+Επιβεβαιωτική πινακίδα.
+        </gr_desc>
+
+        <eng_desc>
+Verifing sign.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_148
+        </photo>
+
+        <gr_desc>
+Διάβαση πεζών.
+        </gr_desc>
+
+        <eng_desc>
+Pedestrian crossing.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_150
+        </photo>
+
+        <gr_desc>
+Νοσοκομείο (για αποφυγή ή μείωση οποιουδήποτε μη αναγκαίου θορύβου).
+        </gr_desc>
+
+        <eng_desc>
+Hospital (avoid making noises).
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_151
+        </photo>
+
+        <gr_desc>
+Μονόδρομος.
+        </gr_desc>
+
+        <eng_desc>
+One-way traffic.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_149
+        </photo>
+
+        <gr_desc>
+Μονόδρομος.
+        </gr_desc>
+
+        <eng_desc>
+One-way traffic.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_153
+        </photo>
+
+        <gr_desc>
+Οδός ταχείας κυκλοφορίας.
+        </gr_desc>
+
+        <eng_desc>
+Expressway.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_155
+        </photo>
+
+        <gr_desc>
+Τέλος oδού ταχείας κυκλοφορίας.
+        </gr_desc>
+
+        <eng_desc>
+End of expressway
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_154
+        </photo>
+
+        <gr_desc>
+Αυτοκινητόδρομος.
+        </gr_desc>
+
+        <eng_desc>
+Motorway.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_156
+        </photo>
+
+        <gr_desc>
+Τέλος αυτοκινητοδρόμου.
+        </gr_desc>
+
+        <eng_desc>
+End of motorway.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_158
+        </photo>
+
+        <gr_desc>
+Στάση Λεωφορείου ή Τρόλλεϋ.
+        </gr_desc>
+
+        <eng_desc>
+Bus Stop.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_159
+        </photo>
+
+        <gr_desc>
+Στάση τροχιοδρόμου.
+        </gr_desc>
+
+        <eng_desc>
+Tram or etc. stop.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_157
+        </photo>
+
+        <gr_desc>
+Ορεινή οδός ανοικτή ή κλειστή ανάλογα με τις ενδείξεις μέσα στα πλαίσια 1, 2, 3, της πινακίδας.
+        </gr_desc>
+
+        <eng_desc>
+Moutain road open or close depending on the indicators 1, 2, 3 of the sign.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_165
+        </photo>
+
+        <gr_desc>
+Χώρος επιτρεπομένης στάθμευσης.
+        </gr_desc>
+
+        <eng_desc>
+Free Parking area.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_167
+        </photo>
+
+        <gr_desc>
+Περιοχή επιτρεπομένης στάθμευσης.
+        </gr_desc>
+
+        <eng_desc>
+Free Parking Zone.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_166
+        </photo>
+
+        <gr_desc>
+Έξοδος από περιοχή επιτρεπομένης στάθμευσης.
+        </gr_desc>
+
+        <eng_desc>
+Exit from free parking zone.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_168
+        </photo>
+
+        <gr_desc>
+Κατεύθυνσης προς χώρο επιτρεπομένης στάθμευσης.
+        </gr_desc>
+
+        <eng_desc>
+Direction to free parking area.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_169
+        </photo>
+
+        <gr_desc>
+Σταθμός Πρώτων Βοηθειών.
+        </gr_desc>
+
+        <eng_desc>
+First aid.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_171
+        </photo>
+
+        <gr_desc>
+Συνεργείο επισκευής βλαβών.
+        </gr_desc>
+
+        <eng_desc>
+Repair shop.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_170
+        </photo>
+
+        <gr_desc>
+Τηλέφωνο.
+        </gr_desc>
+
+        <eng_desc>
+Telephone.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_172
+        </photo>
+
+        <gr_desc>
+Πρατήριο καυσίμων.
+        </gr_desc>
+
+        <eng_desc>
+Gas Station.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_173
+        </photo>
+
+        <gr_desc>
+Ξενοδοχείο ή ΜOTEL.
+        </gr_desc>
+
+        <eng_desc>
+Hote or Motel.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_175
+        </photo>
+
+        <gr_desc>
+Εστιατόριο.
+        </gr_desc>
+
+        <eng_desc>
+Restaurant.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_174
+        </photo>
+
+        <gr_desc>
+Αναψυκτήριο ή καφενείο.
+        </gr_desc>
+
+        <eng_desc>
+Refreshments.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_176
+        </photo>
+
+        <gr_desc>
+Θέση για παραμονή εκδρομέων.
+        </gr_desc>
+
+        <eng_desc>
+Picnic site.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_177
+        </photo>
+
+        <gr_desc>
+Σημείο έναρξης περιπάτου.
+        </gr_desc>
+
+        <eng_desc>
+Walking starting point.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_179
+        </photo>
+
+        <gr_desc>
+Θέση για κατασκηνώσεις.
+        </gr_desc>
+
+        <eng_desc>
+Camp site.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_178
+        </photo>
+
+        <gr_desc>
+Θέση για τροχόσπιτα.
+        </gr_desc>
+
+        <eng_desc>
+Caravan site.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_192
+        </photo>
+
+        <gr_desc>
+Θέση για κατασκηνώσεις και τροχόσπιτα.
+        </gr_desc>
+
+        <eng_desc>
+Caravan and camp site.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_193
+        </photo>
+
+        <gr_desc>
+Ξενώνας Νεότητας.
+        </gr_desc>
+
+        <eng_desc>
+Youth Hostel.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_195
+        </photo>
+
+        <gr_desc>
+Τουριστικές Πληροφορίες.
+        </gr_desc>
+
+        <eng_desc>
+Information
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_194
+        </photo>
+
+        <gr_desc>
+Περιοχή κολύμβησης.
+        </gr_desc>
+
+        <eng_desc>
+Bathing area.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_180
+        </photo>
+
+        <gr_desc>
+Εγκαταστάσεις υγιεινής.
+        </gr_desc>
+
+        <eng_desc>
+Lavatory(Toilet).
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_181
+        </photo>
+
+        <gr_desc>
+Ραδιοφωνική συχνότητα πληροφοριών οδικής κυκλοφορίας.
+        </gr_desc>
+
+        <eng_desc>
+Traffic broadcast.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_183
+        </photo>
+
+        <gr_desc>
+Σήραγγα.
+        </gr_desc>
+
+        <eng_desc>
+Tunnel.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_182
+        </photo>
+
+        <gr_desc>
+Αεροδρόμιο.
+        </gr_desc>
+
+        <eng_desc>
+Airport.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_184
+        </photo>
+
+        <gr_desc>
+Ελικοδρόμιο.
+        </gr_desc>
+
+        <eng_desc>
+Helicopter landing pad
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_185
+        </photo>
+
+        <gr_desc>
+Εναέρια μεταφορά.
+        </gr_desc>
+
+        <eng_desc>
+Mountain Transportation
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_187
+        </photo>
+
+        <gr_desc>
+Λιμάνι.
+        </gr_desc>
+
+        <eng_desc>
+Port.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_186
+        </photo>
+
+        <gr_desc>
+Τουριστικό λιμάνι.
+        </gr_desc>
+
+        <eng_desc>
+Tourist port.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_188
+        </photo>
+
+        <gr_desc>
+Λιμενικός σταθμός ιπταμένων σκαφών.
+        </gr_desc>
+
+        <eng_desc>
+Flying boats port.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_189
+        </photo>
+
+        <gr_desc>
+Λιμενικός σταθμός εμπορικών οχηματαγωγών πλοίων.
+        </gr_desc>
+
+        <eng_desc>
+Ferry boat port.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_191
+        </photo>
+
+        <gr_desc>
+Αστυνομία.
+        </gr_desc>
+
+        <eng_desc>
+Police Station.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_190
+        </photo>
+
+        <gr_desc>
+Αρχή περιοχής κατοικίας.
+        </gr_desc>
+
+        <eng_desc>
+Resident zone.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_196
+        </photo>
+
+        <gr_desc>
+Τέλος περιοχής κατοικίας.
+        </gr_desc>
+
+        <eng_desc>
+End of resident zone.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_197
+        </photo>
+
+        <gr_desc>
+Άτομα με Αναπηρίες (ΑμεΑ).
+        </gr_desc>
+
+        <eng_desc>
+Itinerary for handicapped.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_199
+        </photo>
+
+        <gr_desc>
+Άνω (υπέργεια) διάβαση πεζών.
+        </gr_desc>
+
+        <eng_desc>
+Overpass with steps.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_198
+        </photo>
+
+        <gr_desc>
+Κάτω (υπόγεια) διάβαση πεζών.
+        </gr_desc>
+
+        <eng_desc>
+Underpass with steps
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_201
+        </photo>
+
+        <gr_desc>
+Ανισόπεδη διάβαση πεζών χωρίς σκαλοπάτια.
+        </gr_desc>
+
+        <eng_desc>
+Overpass or underpass without steps.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_202
+        </photo>
+
+        <gr_desc>
+Συνιστώμενη ταχύτητα.
+        </gr_desc>
+
+        <eng_desc>
+Recommended speed.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_200
+        </photo>
+
+        <gr_desc>
+Γενικά όρια ταχύτητας.
+        </gr_desc>
+
+        <eng_desc>
+General speed limits.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_203
+        </photo>
+
+        <gr_desc>
+Λωρίδα αποκλειστικής κυκλοφορίας Λεωφορείων ή Τρόλλεϋ ή Τροχιοδρόμου ή δικύκλου ή συνδυασμού αυτών.
+        </gr_desc>
+
+        <eng_desc>
+Exclusive trafic lane for busses or trolleybus or tram or motorcycle or combination of them.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_205
+        </photo>
+
+        <gr_desc>
+Ανώτατα όρια ταχυτήτων ανά λωρίδα κυκλοφορίας.
+        </gr_desc>
+
+        <eng_desc>
+Speed limit per lane.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_204
+        </photo>
+
+        <gr_desc>
+Ελάχιστα όρια ταχυτήτων ανά λωρίδα κυκλοφορίας.
+        </gr_desc>
+
+        <eng_desc>
+Minimum speed per lane.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_208
+        </photo>
+
+        <gr_desc>
+Αριθμός και κατευθύνσεις κυκλοφοριακών λωρίδων.
+        </gr_desc>
+
+        <eng_desc>
+Number and direction of traffic lanes.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_207
+        </photo>
+
+        <gr_desc>
+Περιορισμός αριθμού κυκλοφοριακών λωρίδων.
+        </gr_desc>
+
+        <eng_desc>
+Number of lanes decreases.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_216
+        </photo>
+
+        <gr_desc>
+Εγκαταστάσεις υγιεινής για Άτομα με Αναπηρίες (ΑμεΑ).
+        </gr_desc>
+
+        <eng_desc>
+Lavatory (Toilet) for handicapped people.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_218
+        </photo>
+
+        <gr_desc>
+Κατεύθυνση οχημάτων για στάθμευση σε συγκεκριμένο χώρο (π.χ. Μετρό για χρησιμοποίηση του μεταφορικού αυτού μέσου).
+        </gr_desc>
+
+        <eng_desc>
+Direction for parking and then use of the indicated means of transport.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_217
+        </photo>
+
+        <gr_desc>
+Προειδοποίηση κατεύθυνσης οχημάτων για στάθμευση σε συγκεκριμένο στεγασμένο χώρο.
+        </gr_desc>
+
+        <eng_desc>
+Direction to covered parking.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_210
+        </photo>
+
+        <gr_desc>
+Κατεύθυνσης-επισήμανσης επικινδύνων καμπυλών.
+        </gr_desc>
+
+        <eng_desc>
+Direction-labeling of  dangerous turns.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_211
+        </photo>
+
+        <gr_desc>
+Διαδοχικά βέλη κατεύθυνσης τοποθετούμενα σε επικίνδυνες καμπύλες κυρίων αρτηριών.
+        </gr_desc>
+
+        <eng_desc>
+Sharp bend, Left or Right.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_212
+        </photo>
+
+        <gr_desc>
+Εμπόδιο κινητό λόγω έργων επί της οδού.
+        </gr_desc>
+
+        <eng_desc>
+Barrier because of road works.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_231
+        </photo>
+
+        <gr_desc>
+Τροχιόδρομος επί του οδοστρώματος.
+        </gr_desc>
+
+        <eng_desc>
+Railway in the road.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_219
+        </photo>
+
+        <gr_desc>
+Αναγγελία προσέγγισης σε ανισόπεδο κόμβο.
+        </gr_desc>
+
+        <eng_desc>
+Indication of interchange  in 2 Khm.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_222
+        </photo>
+
+        <gr_desc>
+Γέφυρα σήμανσης με αναγραφή κατευθύνσεων προ ανισόπεδου κόμβου.
+        </gr_desc>
+
+        <eng_desc>
+Bridge indicator before the interchange,  with road directions.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_220
+        </photo>
+
+        <gr_desc>
+Προειδοποιητική κατευθύνσεων προ ανισόπεδου κόμβου.
+        </gr_desc>
+
+        <eng_desc>
+Direction indication before the interchange.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_221
+        </photo>
+
+        <gr_desc>
+Προειδοποιητική κατευθύνσεων εισόδου σε αυτοκινητόδρομο από δευτερεύουσα οδό μέσω ανισόπεδου κόμβου.
+        </gr_desc>
+
+        <eng_desc>
+Direction indicator before the enterance of a Highway.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_223
+        </photo>
+
+        <gr_desc>
+Γέφυρα σήμανσης με αναγραφή κατευθύνσεων προ ανισόπεδου κόμβου με αφαίρεση λωρίδας του αυτοκινητοδρόμου.
+        </gr_desc>
+
+        <eng_desc>
+Bridge direction indicator before an interchange and removal of a Highway lane
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_224
+        </photo>
+
+        <gr_desc>
+Γέφυρα σήμανσης με αναγραφή κατευθύνσεων στην αρχή εξόδου από τον αυτοκινητόδρομο (αρχή λωρίδας επιβράδυνσης κόμβου).
+        </gr_desc>
+
+        <eng_desc>
+Bridge direction indicator at the exit of the highway.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_225
+        </photo>
+
+        <gr_desc>
+Κατεύθυνση εξόδου από τον αυτοκινητόδρομο.
+        </gr_desc>
+
+        <eng_desc>
+Exit direction form the highway.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_227
+        </photo>
+
+        <gr_desc>
+Επιβεβαιωτική της εισόδου στο συγκεκριμένο αυτοκινητόδρομο μετά τον ανισόπεδο κόμβο.
+        </gr_desc>
+
+        <eng_desc>
+Confirmation direction indicatro after an interchange.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_227
+        </photo>
+
+        <gr_desc>
+Προειδοποιητική κατεύθυνσης εισόδου στον αυτοκινητόδρομο.
+        </gr_desc>
+
+        <eng_desc>
+Direction to a highway.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_229
+        </photo>
+
+        <gr_desc>
+Κατεύθυνσης εισόδου στον αυτοκινητόδρομο.
+        </gr_desc>
+
+        <eng_desc>
+Arrow tha indicates the direction of enterance in a highway.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_229
+        </photo>
+
+        <gr_desc>
+Προειδοποιητικές εξόδου από τον αυτοκινητόδρομο σε αποστάσεις 300, 200, 100 μ. αντίστοιχα προ της αρχής της λωρίδας επιβράδυνσης του κόμβου.
+        </gr_desc>
+
+        <eng_desc>
+Warning indicators before the exit lane.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_230
+        </photo>
+
+        <gr_desc>
+Προειδοποιητική υποχρεωτικής παρακμπτήριας διαδρομής των οδικών οχημάτων επικίνδυνων φορτίων.
+        </gr_desc>
+
+        <eng_desc>
+Vehiles with dangerous materials must follow the direction indicated by the arrow with the indication.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_280
+        </photo>
+
+        <gr_desc>
+Προειδοποιητική κατευθύνσεων με αναγραφή κατευθύνσεων για περιοχές μεγάλου τουριστικού ή αρχαιολογικού ενδιαφέροντος.
+        </gr_desc>
+
+        <eng_desc>
+Advance direction sign(brown color indicates Cultural or tourist destination) , stack type.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_279
+        </photo>
+
+        <gr_desc>
+Κατεύθυνσης μιας τοπωνυμίας μεγάλου τουριστικού ή αρχαιολογικού ενδιαφέροντος με μορφή βέλους.
+        </gr_desc>
+
+        <eng_desc>
+Advance direction sign(brown color indicates Cultural or tourist destination) , arrow type.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_277
+        </photo>
+
+        <gr_desc>
+Ρύθμιση κυκλοφορίας από σχολικό τροχονόμο.
+        </gr_desc>
+
+        <eng_desc>
+School traffic warden.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_275
+        </photo>
+
+        <gr_desc>
+Αρχή περιοχής κατοικίας χαρακτηρισμένης ως περιοχής ηπίας κυκλοφορίας.
+        </gr_desc>
+
+        <eng_desc>
+Residential area.
+        </eng_desc>
+    </sign>
+    <sign signType="3" >
+        <photo>
+sign_276
+        </photo>
+
+        <gr_desc>
+Τέλος περιοχής κατοικίας χαρακτηρισμένης ως περιοχής ηπίας κυκλοφορίας.
+        </gr_desc>
+
+        <eng_desc>
+End of residential area.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_164
+        </photo>
+
+        <gr_desc>
+Συνιστώνται αλυσίδες ή ελαστικά χιόνων.
+        </gr_desc>
+
+        <eng_desc>
+Snow chains compulsory.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_278
+        </photo>
+
+        <gr_desc>
+Απαγορεύεται η στάση και η στάθμευση. Τα οχήματα των παραβατών μετακινούνται.
+        </gr_desc>
+
+        <eng_desc>
+No stopping nor parking, vehiles removed from the place.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_234
+        </photo>
+
+        <gr_desc>
+Μήκος του επικινδύνου τμήματος ή της περιοχής, στην οποία εφαρμόζεται ο καθοριζόμενος με την πινακίδα, περιορισμός.
+        </gr_desc>
+
+        <eng_desc>
+Length of the restriction applyed from sign(eg. for 1 khm ahead).
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_235
+        </photo>
+
+        <gr_desc>
+Απόσταση από τη θέση της πινακίδας μέχρι την αρχή της επικίνδυνης θέσης ή της περιοχής στην οποία εφαρμόζεται ο καθοριζόμενος μ’ αυτήν κανόνας ή περιορισμός
+        </gr_desc>
+
+        <eng_desc>
+Distance from dangerous place or area that indicated from sign rule is applied.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_236
+        </photo>
+
+        <gr_desc>
+Αρχή ισχύος πινακίδας, απαγόρευσης στάσης ή απαγόρευσης στάσης και στάθμευσης, που τοποθετείται παράλληλα προς τον άξονα της οδού. Η ισχύς της πινακίδας εκτείνεται επί ... (π.χ. 10) μ. από τη θέση της πινακίδας και προς την κατεύθυνση του βέλους.
+        </gr_desc>
+
+        <eng_desc>
+Combined with a parking or stopping prohibition sign. Indicates the beginning of the prohibition for … (e.g. 10m) to the direction that the arrow shows.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_238
+        </photo>
+
+        <gr_desc>
+Τέλος ισχύος πινακίδας, απαγόρευσης στάσης ή απαγόρευσης στάσης και στάθμευσης, που τοποθετείται παράλληλα προς τον άξονα της οδού. Η ισχύς της πινακίδας εκτείνεται επί ... (π.χ. 10) μ. από τη θέση της πινακίδας και προς την κατεύθυνση του βέλους.
+        </gr_desc>
+
+        <eng_desc>
+Combined with a parking or stopping prohibition sign. Indicates the end of the prohibition for … (e.g. 10m) to the direction that the arrow shows.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_237
+        </photo>
+
+        <gr_desc>
+Υπόμνηση ισχύος πινακίδας απαγόρευσης στάσης ή απαγόρευσης στάσης και στάθμευσης, που τοποθετείται παράλληλα προς τον άξονα της οδού. Η ισχύς της πινακίδας εκτείνεται επί ... (π.χ. 5) μ. και από τις δύο πλευρές της θέσης της πινακίδας.
+        </gr_desc>
+
+        <eng_desc>
+Combined with a parking or stopping prohibition sign. It is used to remind the applied prohibition, before … (e.g. 5m) and the end of the prohibition … (e.g. 5m).
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_239
+        </photo>
+
+        <gr_desc>
+Αρχή ισχύος πινακίδας, απαγόρευσης στάσης ή απαγόρευσης στάσης και στάθμευσης, που τοποθετείται κάθετα προς τον άξονα της οδού. 
+        </gr_desc>
+
+        <eng_desc>
+Combined with a parking or stopping prohibition sign. Indicates the beginning of the prohibition.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_240
+        </photo>
+
+        <gr_desc>
+Επανάληψη ισχύος πινακίδας, απαγόρευσης στάσης ή απαγόρευσης στάσης και στάθμευσης, που τοποθετείται κάθετα προς τον άξονα της οδού. 
+        </gr_desc>
+
+        <eng_desc>
+Combined with a parking or stopping prohibition sign. It is used to remind the applied prohibition.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_241
+        </photo>
+
+        <gr_desc>
+Τέλος ισχύος πινακίδας, απαγόρευσης στάσης ή απαγόρευσης στάσης και στάθμευσης, που τοποθετείται κάθετα προς τον άξονα της οδού. 
+        </gr_desc>
+
+        <eng_desc>
+Combined with a parking or stopping prohibition sign. Indicates the end of the prohibition.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_242
+        </photo>
+
+        <gr_desc>
+Επιτρέπεται μόνο για οχήματα Ατόμων με Αναπηρίες (ΑμεΑ) ύστερα από ειδική άδεια.
+        </gr_desc>
+
+        <eng_desc>
+Allowed only the vehicles, it is used by handicapped people.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_243
+        </photo>
+
+        <gr_desc>
+Εξαιρούνται μόνο οχήματα Ατόμων με Αναπηρίες (ΑμεΑ) ύστερα από ειδική άδεια.
+        </gr_desc>
+
+        <eng_desc>
+Except the vehicles, it is used by handicapped people.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_244
+        </photo>
+
+        <gr_desc>
+Πάγος.
+        </gr_desc>
+
+        <eng_desc>
+Ice.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_246
+        </photo>
+
+        <gr_desc>
+Βροχή.
+        </gr_desc>
+
+        <eng_desc>
+Rain.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_245
+        </photo>
+
+        <gr_desc>
+Προτεραιότητα κατεύθυνσης σε διασταύρωση (π.χ. α-δ).
+        </gr_desc>
+
+        <eng_desc>
+Priority direction in the crossing. (e.g. α-δ)
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_247
+        </photo>
+
+        <gr_desc>
+Προτεραιότητα κατεύθυνσης σε διακλάδωση (π.χ. α-β).
+        </gr_desc>
+
+        <eng_desc>
+Priority direction at the branch (e.g. α-γ).
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_251
+        </photo>
+
+        <gr_desc>
+Προτεραιότητα κατεύθυνσης σε διακλάδωση μορφής Υ (π.χ. α-γ).
+        </gr_desc>
+
+        <eng_desc>
+Priority direction at the Y-branch (e.g. α-β).
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_253
+        </photo>
+
+        <gr_desc>
+Επικίνδυνη κλειστή στροφή αριστερά.
+        </gr_desc>
+
+        <eng_desc>
+Dangerous U-turn left.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_255
+        </photo>
+
+        <gr_desc>
+Επικίνδυνη κλειστή στροφή δεξιά.
+        </gr_desc>
+
+        <eng_desc>
+Dangerous U-turn right.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_254
+        </photo>
+
+        <gr_desc>
+Ανακάπτων ελιγμός αριστερά.
+        </gr_desc>
+
+        <eng_desc />
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_256
+        </photo>
+
+        <gr_desc>
+Ανακάπτων ελιγμός δεξιά.
+        </gr_desc>
+
+        <eng_desc />
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_257
+        </photo>
+
+        <gr_desc>
+Ζωήλατο όχημα.
+        </gr_desc>
+
+        <eng_desc>
+Animal-drawn vehicles.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_258
+        </photo>
+
+        <gr_desc>
+Χειράμαξα.
+        </gr_desc>
+
+        <eng_desc>
+Handcarts.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_259
+        </photo>
+
+        <gr_desc>
+Ποδήλατο.
+        </gr_desc>
+
+        <eng_desc>
+Bicycle.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_260
+        </photo>
+
+        <gr_desc>
+Μοτοποδήλατο.
+        </gr_desc>
+
+        <eng_desc>
+Moped.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_261
+        </photo>
+
+        <gr_desc>
+Μοτοσικλέτα.
+        </gr_desc>
+
+        <eng_desc>
+Motorcycle.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_262
+        </photo>
+
+        <gr_desc>
+Επιβατικό όχημα.
+        </gr_desc>
+
+        <eng_desc>
+Car.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_263
+        </photo>
+
+        <gr_desc>
+Επιβατικό με ρυμουλκούμενο όχημα ενός άξονα (τρέιλερ).
+        </gr_desc>
+
+        <eng_desc>
+Car drawing a trailer.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_264
+        </photo>
+
+        <gr_desc>
+Αγροτικό μηχάνημα.
+        </gr_desc>
+
+        <eng_desc>
+Motor tractors, power-driven working vehicles.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_265
+        </photo>
+
+        <gr_desc>
+Λεωφορείο ή τρόλλεϋ.
+        </gr_desc>
+
+        <eng_desc>
+Bus or trolley bus.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_266
+        </photo>
+
+        <gr_desc>
+Φορτηγό αυτοκίνητο.
+        </gr_desc>
+
+        <eng_desc>
+Truck.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_267
+        </photo>
+
+        <gr_desc>
+Φορτηγό αρθρωτό (κονταίινερ).
+        </gr_desc>
+
+        <eng_desc>
+Articulated truck 
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_268
+        </photo>
+
+        <gr_desc>
+Φορτηγό με ρυμουλκούμενο όχημα (νταλίκα) πλην ρυμουλκουμένου ενός άξονα.
+        </gr_desc>
+
+        <eng_desc>
+Truck drawing a vehicle with more than one axles.
+        </eng_desc>
+    </sign>
+    <sign signType="4" >
+        <photo>
+sign_273
+        </photo>
+
+        <gr_desc>
+Φορτηγό με ρυμουλκούμενο όχημα ενός άξονα (τρέιλερ).
+        </gr_desc>
+
+        <eng_desc>
+Truck drawing one axle vehicle (trailer).
+        </eng_desc>
+    </sign>
+
+</signs>
